@@ -1,0 +1,26 @@
+body {
+    background: #f6f7fb;
+}
+
+.card {
+    border-radius: 18px;
+}
+
+.stat-card {
+    min-height: 120px;
+}
+
+.comment-cell {
+    max-width: 220px;
+    white-space: normal;
+}
+
+input,
+select,
+textarea {
+    border-radius: 12px !important;
+}
+
+.btn {
+    border-radius: 12px;
+}
